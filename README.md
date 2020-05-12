@@ -14,13 +14,16 @@ this project is my third project in Deep Learnig Nanodegree in Udacity and one o
 * Generate Text and new script
 
 # Python Libraries and Prerequisites
-* Python 3.7
+* Python 3
 * Numpy
 * Pandas
 * Matplotlib
 * Jupyter Notebook
 * Torchvision
 * PyTorch
+* TensorFlow
+* Keras
+
 
 # Project Structure
 dlnd_tv_script_generation.ipynb - Main project file
