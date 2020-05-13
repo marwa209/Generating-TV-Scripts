@@ -1,7 +1,7 @@
 # Generating-TV-Scripts
 Generating TV Scripts using Recurrent Neural Network (RNN)
 # Project Overview
-this project is my third project in Deep Learnig Nanodegree in Udacity and one of the most intersting project i have done. In this project, I have generated my own Simpsons TV scripts using RNNs. I have used part of the Simpsons dataset of scripts from many seasons. The Neural Network I have built will generate a new, "fake" TV script. and in this project many concepts are coverd like Recurrent Neural Networks, Tensorflow, Embeddings and Word2Vec.
+this project is my third project in Deep Learnig Nanodegree in Udacity and one of the most interesting project i have done. In this project, I have generated my own Simpsons TV scripts using RNNs. I have used part of the Simpsons dataset of scripts from many seasons. The Neural Network I have built will generate a new, "fake" TV script. and in this project many concepts are covered like Recurrent Neural Networks, Tensorflow, Embeddings and Word2Vec.
 # Steps to do the job
 * Get and explore the Data
 * preprocess the data
