@@ -26,7 +26,7 @@ this project is my third project in Deep Learnig Nanodegree in Udacity and one o
 
 
 # Project Structure
-dlnd_tv_script_generation.ipynb - Main project file
-dlnd_tv_script_generation.html  - Main project in html format
-helper.py contains some helper functions
-data folder - Seinfeld_Scripts
+* dlnd_tv_script_generation.ipynb - Main project file
+* dlnd_tv_script_generation.html  - Main project in html format
+* helper.py contains some helper functions
+* data folder - Seinfeld_Scripts
